@@ -1,5 +1,5 @@
 html {
-    height: 100%;
+    height: 105%;
   }
   body {
     margin:0;
@@ -9,6 +9,7 @@ html {
   }
   
   .login-box {
+    margin-top: 20px;
     margin-bottom: 20px;
     position: absolute;
     top: 50%;
