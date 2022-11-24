@@ -1,0 +1,54 @@
+body{
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+
+ .nav-link{
+    color: #FFFFFF;
+    text-decoration: none; 
+} 
+
+.gambar{
+    opacity: 40%;
+    width: max-content;
+}
+
+.cover{
+    background-color: black;
+    height: 605px;
+    margin-top: -16cm;
+}
+.text{
+    color: white;
+    margin-top: -10cm;
+    padding: 0 60px 0 60px;
+}
+
+.cover_srch{
+    background-color: #6E7CA1;
+    width: 1140px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.cover_srch form{
+    padding: 15px 0px 0px 7cm;
+}
+
+.search{
+    border-radius: 10px;
+    width: 400px;
+    justify-items: center;
+}
+
+.button{
+    border-radius: 10px;
+    width: 200px;
+    color: black;
+    background-color: #FCF8B9;
+    justify-items: center;
+}
+
+.container{
+    margin-top: 270px;
+} 
