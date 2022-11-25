@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+}
+.nav-link{
+    color: #FFFFFF;
+    text-decoration: none; 
+} 
+
+body{
+    background-image: url(asset/Frame\ 2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 130px;
+}
+
+.text{
+    color: #FFFFFF;
+}
+
+#forum{
+    background-color: #FFFFFF;
+    padding: 30px 40px 30px 40px;
+    /* margin: 50px 20px 0 20px; */
+    margin-top: 50px;
+}
+
+.btn{
+    color: #FFFFFF;
+    width: 100px;
+    height: 50px;
+}
