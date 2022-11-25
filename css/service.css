@@ -1,0 +1,124 @@
+body{
+    margin-bottom: 170px;
+    padding: 0;
+}
+
+.nav-link{
+    color: #FFFFFF;
+    text-decoration: none; 
+} 
+
+.gambar{
+    padding-top: 40px;
+    opacity: 30%;
+    width: max-content;
+}
+
+.cover{
+    background-color: black;
+    height: 605px;
+    margin-top: -16cm;
+}
+.text{
+    color: #FFFFFF;
+    margin-top: -10cm;
+    padding: 0 700px 0px 60px;
+    font-size: larger;
+    text-align: justify;
+}
+
+.container
+{
+    margin-top: 250px;
+}
+
+.judul{
+    width: 130px;
+    height: 130px;
+    border-radius: 100px;
+    background-color: #FFFFFF;
+    padding-top: 27px;    
+    margin-top: -260px;
+}
+
+.card{
+    margin-left: 30px;
+}
+
+.card-body{
+    background-color: #6E7CA1;
+    height: 200px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.card-body h3{
+    color: #FFFFFF;
+}
+
+#alarm{
+    margin-top: 60px;
+}
+
+.judul {
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 2px solid #46526F;
+    color: #46526F;
+    cursor: pointer;
+    display: flex;
+    align-self: center;
+    font-size: 1rem;
+    font-weight: 40;
+    line-height: 1;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 70;
+}
+
+.judul:hover,
+.judul:focus {
+    color: white;
+    outline: 0;
+    text-decoration: none;
+}
+
+.fourth {
+    border-color: #46526F;
+    color: #46526F;
+    background-image: linear-gradient(45deg, #46526F 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    transition: background 750ms ease-in-out;
+    text-decoration: none;
+}
+
+.fourth:hover {
+    background-position: 0;
+    text-decoration: none;
+}
+
+.text1{
+    background-color: #6E7CA1;
+    width: 370px;
+    height: 250px;
+    padding-top: 100px;
+    padding-left: 15px;
+}
+
+#alarm{
+    display: flex;
+}
+
+#dollar{
+    margin-top: 20px;
+    display: flex;
+}
+
+.card{
+    width: 159;
+    height: 159;
+}
