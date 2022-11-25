@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+}
+.nav-link{
+    color: #FFFFFF;
+    text-decoration: none; 
+} 
+
+body{
+    background-image: url(asset/frame1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 100px;
+}
+
+.text{
+    color: #FFFFFF;
+}
+
+#tabel{
+    background-color: #FFFFFF;
+    padding: 20px 30px 20px 30px;
+    margin-top: 50px;
+}
+
+#header{
+    background-color: #FDF9BA;
+}
+
+
+.input-group{
+    width: 300px;
+}
