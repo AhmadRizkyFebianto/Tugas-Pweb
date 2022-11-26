@@ -7,10 +7,11 @@ body{
 } 
 
 body{
-    background-image: url(asset/Frame\ 2.png);
-    background-size: 100%;
+    background-image: url(asset/frame1.png);
+    background-size: 180%;
     background-repeat: no-repeat;
-    padding: 130px;
+    background-attachment: fixed;
+    background-position: fixed;
 }
 
 .text{
@@ -28,4 +29,8 @@ body{
     color: #FFFFFF;
     width: 100px;
     height: 50px;
+}
+
+.container{
+    margin-top: 100px;
 }
