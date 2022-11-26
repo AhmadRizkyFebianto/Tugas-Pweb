@@ -1,0 +1,57 @@
+.nav-link{
+    color: #FFFFFF;
+    text-decoration: none; 
+} 
+
+body{
+    background-image: url(asset/bgadmin.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left;
+}
+
+.card{
+    width: 18rem; 
+    background-color: #20344C; 
+    border-style: none;
+}
+
+.card img{
+    margin-bottom: 30px;
+}
+
+.card-title{
+    color: #FFFFFF;
+    /* font-size: 27px; */
+    margin-bottom: 20px;
+}
+
+.card-body{
+    background-color: #7584AD;
+    /* width: 800px; */
+    height: 430px;
+    margin-bottom: 20px;
+}
+
+.card-text{
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.btn{
+    background-color: #FDF9BA;
+    height: 50px;
+    padding-top: 5px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.form-label{
+    color: #FFFFFF;
+}
+
+.btn:hover{
+    background-color: #FDF9BA;
+}

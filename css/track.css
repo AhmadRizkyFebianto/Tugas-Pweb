@@ -9,8 +9,12 @@ body{
 } 
 
 .gambar{
-    opacity: 40%;
-    width: max-content;
+    opacity: 30%;
+    /* width: max-content; */
+    background-size: 210%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: fixed;
 }
 
 .cover{
@@ -19,7 +23,7 @@ body{
     margin-top: -16cm;
 }
 .text{
-    color: white;
+    color: #FFFFFF;
     margin-top: -10cm;
     padding: 0 60px 0 60px;
 }
@@ -28,7 +32,7 @@ body{
     background-color: #6E7CA1;
     width: 1140px;
     height: 60px;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .cover_srch form{

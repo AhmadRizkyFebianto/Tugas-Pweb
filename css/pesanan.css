@@ -8,7 +8,7 @@ body{
 
 body{
     background-image: url(asset/frame1.png);
-    background-size: 160%;
+    background-size: 210%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: fixed;
@@ -20,7 +20,7 @@ body{
 }
 
 .row{
-    padding: 20px 30px 20px 30px;
+    padding: 10px 30px 20px 30px;
     margin-top: 50px;
 }
 
